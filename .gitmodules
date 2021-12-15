@@ -1,0 +1,3 @@
+[submodule "src/JSCPG"]
+	path = src/JSCPG
+	url = https://github.com/Song-Li/JSCPG
